@@ -1,0 +1,13 @@
+name,parent
+Noun,Sentence
+Sentence,null
+Adjective,Sentence
+Verb,Sentence
+Adverb,Sentence
+car,Noun
+highway,Noun
+broke,Verb
+highway,Noun
+maintenance,Noun
+closed,Verb
+due,Adjective
